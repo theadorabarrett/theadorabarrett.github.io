@@ -41,12 +41,10 @@ var rules = {
     "What do you think machines have to do with your problem?",
   ],
   "~*x name ~*y": [
-    "I am not interested in names",
+    "Say my name, say my name, If no one is around you, Say baby I love you, If you ain't runnin' game, Say my name, say my name, You actin' kinda shady, Ain't callin' me baby",
   ],
   "~*x sorry ~*y": [
-    "Please don't apologize",
-    "Apologies are not necessary",
-    "What feelings do you have when you apologize",
+    "It's too late to apologize...ITS TOO LAAATEE",
   ],
   "~*x I remember ~*y": [
     "Do you often think of ~y?",
@@ -107,8 +105,7 @@ var rules = {
     "Can you explain why you are suddenly ~y?",
   ],
   "~*x I am sad ~*y": [
-    "I am sorry to hear you are depressed",
-    "I'm sure it's not pleasant to be sad",
+    "FERGALICIOUS definition; make them boys go loco",
   ],
   "~*x are like ~*y": [
     "What resemblence do you see between ~x and ~y?",
@@ -195,10 +192,9 @@ var rules = {
     "Do you believe I don't ~y ?",
     "Perhaps I will ~y in good time",
   ],
-  "~*x yes ~*y": [
-    "You seem quite positive",
-    "You are sure?",
-    "I understand",
+  "~*x shit ~*y": [
+    "this shit is bananas, b a n a n a s",
+    "THIS SHIT IS BANANAS, B A N A N A S",
   ],
   "~*x someone ~*y": [
     "Can you be more specific?",
@@ -221,9 +217,11 @@ var rules = {
     "What is it you really want to know?",
     "What do you think?",
     "What comes to your mind when you ask that?",
+  
   ],
-  "~*x perhaps ~*y": [
-    "You do not seem quite certain",
+   "~*x I love you ~*y": [
+    "Never gonna give you up, never gonna let you down,Never gonna run around and desert you. Never gonna make you cry, never gonna say goodbye, Never gonna tell a lie and hurt you",
+    "We're no strangers to love, You know the rules and so do I",
   ],
 };
 
